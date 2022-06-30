@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaygupta001&label=Profile%20views&color=0e75b6&style=flat" alt="ajaygupta001" /> </p>
 
 
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
-- 💬 Ask me about **java, node.js, javascript**
+- 💬 Ask me about **java, JavaScript, JQuery, Nodejs, ExpressJS, React**
 
 - 📫 How to reach me **ajaygupa9504@gmail.com**
 
