@@ -18,7 +18,8 @@
 
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
-  <a href="https:[//www.linkedin.com/in/](https://www.linkedin.com/in/ajay-gupta-516299238/)" target="blank">Linkedin</a>
+  <a href="https://www.linkedin.com/in/ajay-gupta-516299238/" target="blank">Linkedin</a>
+
 
 <h2 align="center"> 💻 Tech Stack::</h2>
 <p align="left"> 
