@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaygupta001&label=Profile%20views&color=0e75b6&style=flat" alt="ajaygupta001" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m **MERN Stack** Developer
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
