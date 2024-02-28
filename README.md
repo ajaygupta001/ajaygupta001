@@ -40,9 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaygupta001&show_icons=true&locale=en" alt="ajaygupta001" /></p>
 
 
-<div align ="center">
-  <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaygupta001&show_icons=true&locale=en&layout=compact" alt="ajaygupta001" /></p>
-</div>
 
 <h2 align="center"> 🏆 GitHub Trophies </h2>
 
