@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
-- 💬 Ask me about **Java, JavaScript, JQuery, Nodejs, ExpressJS, React, MongoDB, Bootstrap**
+- 💬 Ask me about **Java, JavaScript, JQuery, Nodejs, ExpressJS, React, MongoDB, Bootstrap, Tailwinds,Docker, Supabase**
 
 - 📫 How to reach me **ajaygupa9504@gmail.com**
 <h3 align="center">|Computer Science Graduate |MCA| Software-Developer | Programming |</h3>
