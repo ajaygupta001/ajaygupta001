@@ -35,7 +35,9 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
-
+<a href="https://www.supabase.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="Supabase" width="40" height="40"/>
+</a>
 </p>
 
  <h2 align="center"> 📊 GitHub Stats:</h2>
