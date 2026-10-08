@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-nine-beta-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7DD35B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ajay-portfolio-three-wheat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7DD35B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/ajay-gupta-516299238/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ajaygupta9504@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -65,7 +65,7 @@
 ---
 
 <p align="center">
-  <b>📫 Let's talk:</b> <a href="mailto:ajaygupta9504@gmail.com">ajaygupta9504@gmail.com</a> · <a href="https://portfolio-nine-beta-77.vercel.app/">Portfolio</a> · <a href="https://linkedin.com/in/ajay-gupta-516299238/">LinkedIn</a>
+  <b>📫 Let's talk:</b> <a href="mailto:ajaygupta9504@gmail.com">ajaygupta9504@gmail.com</a> · <a href="https://ajay-portfolio-three-wheat.vercel.app/">Portfolio</a> · <a href="https://linkedin.com/in/ajay-gupta-516299238/">LinkedIn</a>
 </p>
 
 <p align="center">
