@@ -1,55 +1,77 @@
 
+<h1 align="center">Hi, I'm Ajay Gupta 👋</h1>
+<h3 align="center">Software Engineer · Node.js & NestJS · GenAI</h3>
 
-<h1 align="center">Hello 👋, I'm Ajay Gupta 👨‍💻</h1>
-
-<h3 align="center">A passionate full stack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaygupta001&label=Profile%20views&color=0e75b6&style=flat" alt="ajaygupta001" /> </p>
-
-
-- 🌱 I’m **MERN Stack** Developer
-
-- 👯 I’m looking to collaborate on **exciting projects**
-
-- 💬 Ask me about **Java, JavaScript, JQuery, Nodejs, ExpressJS, React, MongoDB, Bootstrap, Tailwinds,Docker, Supabase**
-
-- 📫 How to reach me **ajaygupa9504@gmail.com**
-<h3 align="center">|Computer Science Graduate |MCA| Software-Developer | Programming |</h3>
-
-<h3 align="center">Connect with me on:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajay-gupta-516299238/" target="blank">Linkedin</a>
-
-
-<h2 align="center"> 💻 Tech Stack::</h2>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://www.supabase.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="Supabase" width="40" height="60"/>
-</a>
+  I build scalable backends, microservices and LLM-powered features that stay fast under load.
 </p>
 
- <h2 align="center"> 📊 GitHub Stats:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaygupta001&show_icons=true&locale=en&layout=compact" alt="ajaygupta001" /></p>
+<p align="center">
+  <a href="https://portfolio-nine-beta-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7DD35B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ajay-gupta-516299238/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ajaygupta9504@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaygupta001&show_icons=true&locale=en" alt="ajaygupta001" /></p>
+---
 
+### 👨‍💻 About me
 
+- 💼 **5+ years** in software development, **3+ years** specialising in **Node.js backends & microservices**
+- 🤖 Built production **GenAI features**: LLM chat, document summarisation, and PDF Q&A with **OpenAI embeddings & vector search**
+- ⚡ Performance-focused: **Redis caching, query optimisation, indexing**, and secure auth with **JWT & RBAC**
+- 👥 Previously **led a 15-member team** on a Facebook-sponsored OpenStreetMap project
+- 📍 Delhi NCR, India · 🟢 **Open to backend, full-stack & GenAI roles**
 
-<h2 align="center"> 🏆 GitHub Trophies </h2>
+### 📈 Highlights
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ajaygupta001&theme=flat&no-frame=false&no-bg=false&margin-w=4"/></p>
+| Impact | Where |
+|---|---|
+| **40%** faster document search by optimising vector search | PharynxAI (GenAI platform) |
+| **40%** lower response time under peak load with Redis | Nexthikes IT Solution |
+| **25%** lower API latency through query & workflow optimisation | Nexthikes IT Solution |
+| **25%** faster API responses after a Node.js + MongoDB refactor | Deepmindz Innovations |
+
+### 🚀 Featured work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[PharynxAI](https://pharynxai.com/)** | GenAI chat & document Q&A: PDF upload → chunking → embeddings → vector search → LLM | Node.js · OpenAI · Supabase · MongoDB |
+| **[CRM & Sales Performance](https://crmnext.nexthikes.com/)** | Meta (Facebook) Lead Ads → auto lead capture, assignment, follow-up tracking, lead scoring, hierarchy notifications & sales dashboards | NestJS · Redis · RBAC · MongoDB · SQL Server |
+| **Astrology E-Commerce** | E-commerce + paid consultations with wallet recharge, payment gateway & order management | Node.js · Payments · SEO |
+| **BTS Operational Portal** | Logistics operations portal: MIS reports, vehicle audits, incident reports, 4-level RBAC | Node.js · React · RBAC |
+
+### 🛠️ Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,nestjs,express,graphql&theme=dark" alt="Languages & backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase&theme=dark" alt="Databases" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,aws,docker,git,github,postman&theme=dark" alt="Frontend, cloud & tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LLM-Embeddings-7DD35B?style=flat-square" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Vector-Search-56C7D6?style=flat-square" alt="Vector search" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-33404E?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/JWT%20%2B%20RBAC-Security-E3B341?style=flat-square" alt="JWT RBAC" />
+</p>
+
+### 🎓 Education & certifications
+
+- **MCA**, Indira Gandhi National Open University (2023)
+- **Diploma in Computer Science**, Guru Tegh Bahadur Polytechnic Institute (2018)
+- MERN Stack (Udemy, 2023) · Full Stack Web Development (freeCodeCamp, 2019) · Java Development (DUCAT, 2019)
+
+---
+
+<p align="center">
+  <b>📫 Let's talk:</b> <a href="mailto:ajaygupta9504@gmail.com">ajaygupta9504@gmail.com</a> · <a href="https://portfolio-nine-beta-77.vercel.app/">Portfolio</a> · <a href="https://linkedin.com/in/ajay-gupta-516299238/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajaygupta001&label=Profile%20views&color=7DD35B&style=flat" alt="Profile views" />
+</p>
+
 
 
 
